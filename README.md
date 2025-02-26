@@ -8,10 +8,10 @@ This project implements a basic blockchain-like data structure using a reversed 
 
 ```
 EndSem/
-├── Node.java          # Defines the blockchain node structure
-├── Block1.java        # (Expected) Represents a block with attributes and methods
-├── BlockChainExample.java    # (Expected) Manages the linked list and blockchain operations
-├── SLL1.java          # (Expected) Runs the blockchain demonstration
+├── Node.java                   # Defines the blockchain node structure
+├── Block1.java                 # (Expected) Represents a block with attributes and methods
+├── BlockChainExample.java      # (Expected) Manages the linked list and blockchain operations
+├── SLL1.java                   # (Expected) Runs the blockchain demonstration
 ```
 
 ## Installation & Usage
