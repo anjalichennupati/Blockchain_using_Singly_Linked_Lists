@@ -14,6 +14,20 @@ EndSem/
 ├── SLL1.java          # (Expected) Runs the blockchain demonstration
 ```
 
+## Installation & Usage
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Aadigha-git/Blockchain_using_Singly_Linked_Lists.git
+   ```
+2. Navigate to the project directory and compile the Java files:
+   ```sh
+   javac EndSem/*.java
+   ```
+3. Run the project:
+   ```sh
+   java EndSem.Main
+   ```
 
 ## Features
 
@@ -42,22 +56,6 @@ EndSem/
   - A **hash** that links it to the previous block.
 - This creates a **backward-linked structure**, ensuring integrity and security.
 
-
-## Installation & Usage
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Aadigha-git/Blockchain_using_Singly_Linked_Lists.git
-   ```
-2. Navigate to the project directory and compile the Java files:
-   ```sh
-   javac EndSem/*.java
-   ```
-3. Run the project:
-   ```sh
-   java EndSem.Main
-   ```
-
 ## Future Enhancements
 
 - Implement **Proof of Work (PoW)** mechanism for better security.
@@ -68,4 +66,3 @@ EndSem/
 ## Contributing
 
 Feel free to fork this repository, submit pull requests, or open issues for any suggestions or improvements.
-
