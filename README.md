@@ -46,7 +46,9 @@ EndSem/
   - Proof of Work mechanism for validation.
 
 ## How Blockchain Relates to Linked Lists
-![image](https://github.com/user-attachments/assets/6e7dd2a7-ab18-4b20-bc4c-cd1bcd616d72)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/6e7dd2a7-ab18-4b20-bc4c-cd1bcd616d72" alt="App Screenshot" width="600">
+</p>
 - A **linked list** is a set of linear data structures linked together using pointers.
 - Each **node** in a linked list stores data (element) and a pointer to the next node.
 - While **blockchains are not linked lists**, they can be represented as a singly linked list.
