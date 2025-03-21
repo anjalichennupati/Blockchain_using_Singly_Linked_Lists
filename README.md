@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a basic blockchain-like data structure using a reversed **singly linked list** in Java. Each node in the list represents a block containing a **timestamp, hash, previous hash, and data**. The purpose of this project is to demonstrate the fundamental concepts of blockchain, such as hashing and linking blocks together sequentially.
+This project implements a basic blockchain-like data structure using a reversed **singly linked list** in Java. Each node in the list represents a block containing a **timestamp, hash, previous hash, and data**. The purpose of this project is to demonstrate the fundamental concepts of blockchain, such as hashing and linking blocks together sequentially. This project was done in Dec '22.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) 
 
